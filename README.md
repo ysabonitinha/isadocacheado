@@ -66,7 +66,7 @@ te amo te amo
     </div>
     <div class="img"></div>
     <div class="btn">
-        <button id="sim"><a href="https://www.youtube.com/watch?v=ZE1yh5NoDiU">Sim</a></button>
+        <button id="sim"><a href="[https://www.youtube.com/watch?v=ZE1yh5NoDiU](https://youtu.be/F8KkimDsF1c)">Sim</a></button>
         <button id="nao">Não</button>
     </div>
 </body>
