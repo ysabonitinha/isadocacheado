@@ -8,10 +8,10 @@ te amo te amo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quer namorar comigo?</title>
+    <title>quer namorar comigo, aroldo?</title>
     <style>
         body {
-            background-color: red;
+            background-color: pink;
             overflow: hidden;
         }
         h1{
@@ -62,7 +62,7 @@ te amo te amo
 </head>
 <body>
     <div class="center">
-        <h1>Quer namorar comigo?</h1>
+        <h1>quer namorar comigo?</h1>
     </div>
     <div class="img"></div>
     <div class="btn">
@@ -72,7 +72,7 @@ te amo te amo
 </body>
 <script>
     const naoBtn = document.querySelector('#nao');
-    const simBtn = document.querySelector('#sim');
+    const simBtn = document.querySelector('#sim, mnh branquinha linda');
     const img = document.querySelector('.img');
 
     simBtn.addEventListener('mouseover', ()=>{
